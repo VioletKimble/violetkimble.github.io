@@ -6,7 +6,7 @@ description: All things academia.
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Projects: "projects"
+  Research: "research"
   CV: /img/CV.Violet.Summer '21.pdf
   Publications: "https://scholar.google.com/citations?user=2mQJ_CUAAAAJ&hl=en"
 
