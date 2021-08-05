@@ -32,7 +32,7 @@ after-content: contact
 # --- Colours / background image --- #
 
 navbar-col: "#252525"
-navbar-text-col: "#00229A"
+navbar-text-col: "#FFFFFF"
 navbar-border-col: "#666666"
 # page-col: "#FFFFFF"
 # text-col: "#404040"
