@@ -1,18 +1,18 @@
 remote_theme: daattali/beautiful-jekyll
-title: Stephanie Noble
-author: Stephanie Noble
+title: Violet Kimble 
+author: Violet Kimble
 description: All things academia.
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   Projects: "projects"
-  CV: /img/SMN_CV_June_2021.pdf
-  Publications: "https://scholar.google.com/citations?user=JxQdvn4AAAAJ&hl=en&oi=sra"
+  CV: /img/cv.pdf
+  Publications: "https://scholar.google.com/citations?user=2mQJ_CUAAAAJ&hl=en"
 
 # --- Logo --- #
 
-avatar: "/img/profile_photo_2018_square.jpeg"
+avatar: "/img/Violet.jpg"
 
 # --- Cover image --- #
 
@@ -21,10 +21,11 @@ cover-img: "/img/net_banner.gif"
 # --- Footer options --- #
 
 social-network-links:
-  email: "stephanie.noble@yale.edu"
-  github: sNeuroble
-  twitter: sNeuroble
-  linkedin: sNeuroble
+  email: "violet.kimble@yale.edu"
+  github: VioletKimble
+  twitter: violet_kimble
+  linkedin: violet-k
+  
   
 after-content: contact
   
