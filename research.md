@@ -7,7 +7,7 @@ I have been fortunate to work in many labs.
 **The role of gut microbiome disruptions in a rodent model of opioid use disorder**
 _Laboratory of Dr. Drew Kiraly_
 
-I worked to establish a mechanistic link between the adolescent gut microbiome, the production of short-chain fatty acids (SCFAs), and opioid self-administration. The current project will build upon our preliminary results to investigate the role of the adolescent gut microbiome on fentanyl self-administration and seek a mechanistic understanding of its influence by examining the contribution of the gut microbiome-derived metabolites in opioid reward behavior and chromatin modification in mPFC. My portion of the project was to test the hypothesis that adolescence is a sensitive period for microbiome-driven effects on opioid self-administration and opioid-induced histone modification. 
+I worked to establish a mechanistic link between the adolescent gut microbiome, the production of short-chain fatty acids (SCFAs), and opioid self-administration. My portion of the project was to test the hypothesis that adolescence is a sensitive period for microbiome-driven effects on opioid self-administration and opioid-induced histone modification. 
 
 **Housing environment affects anxiety-like behaviors but not cocaine-induced sensitization in female and male mice**
 _Laboratory of Dr. Christina McKittrick_
