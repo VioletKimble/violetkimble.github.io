@@ -2,15 +2,17 @@
 layout: page
 title: Research
 ---
-I have been fortunate to work in many labs as my interests are mainly focused on drug addiction and mental health using animal models and bioinformatic tools.
+I have been fortunate to work in many labs.
 
 **Investigate the role of gut microbiome disruptions in a rodent model of opioid use disorder**
 _Laboratory of Dr. Drew Kiraly_
 
 I worked to establish a mechanistic link between the adolescent gut microbiome, the production of short-chain fatty acids (SCFAs), and opioid self-administration. The current project will build upon our preliminary results to investigate the role of the adolescent gut microbiome on fentanyl self-administration and seek a mechanistic understanding of its influence by examining the contribution of the gut microbiome-derived metabolites in opioid reward behavior and chromatin modification in mPFC. My portion of the project was to test the hypothesis that adolescence is a sensitive period for microbiome-driven effects on opioid self-administration and opioid-induced histone modification. 
 
-**Explore the effect of housing conditions on anxiety behaviors and cocaine-induced sensitized locomotor activity in C57BL/6J mice**
+**Housing environment affects anxiety-like behaviors but not cocaine-induced sensitization in female and male mice**
 _Laboratory of Dr. Christina McKittrick_
+
+I investigated the effect of housing conditions on behavioral responsiveness to cocaine and on anxiety-like behavior in both female and male mice. We observed that the housing environment affected anxiety-related behaviors but not the sensitization response suggests that these behavioral processes involve distinct neural pathways. In addition, the robust behavioral sensitization to cocaine exhibited by both female and male mice supports the routine inclusion of females in studies of substance use disorders.   
 
 **Using Protein Binding Microarrays to analyze DNA binding differences of Human Transcription Factor Isoforms**
 _Laboratory of Dr. Martha Bulyk_
