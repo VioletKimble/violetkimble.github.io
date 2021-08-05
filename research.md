@@ -17,7 +17,7 @@ I investigated the effect of housing conditions on behavioral responsiveness to 
 **Using Protein Binding Microarrays to analyze DNA binding differences of Human Transcription Factor Isoforms**
 _Laboratory of Dr. Martha Bulyk_
 
-I utilized R to perform protein-binding microarray data analysis on the DNA binding patterns of the reference and alternative isoforms of two disease-associated TF genes: OTX2 and TBX5. My analysis expanded on existing knowledge of human TF binding diversity and pointed to the importance of understanding TF isoforms. As a result of this research experience, I presented both oral and poster presentations at the Virtual Leadership Alliance National Symposium (LANS), ABRCMS, and the Society for Advancement of Chicanos/Hispanics and Native Americans in Science (SACNAS). Presenting my research at the various conferences gave me valuable experience in effectively communicating my science to the broader scientific community. As a result, I was recognized with an award for an outstanding presentation at SACNAS 2020.
+I utilized R to perform protein-binding microarray data analysis on the DNA binding patterns of the reference and alternative isoforms of two disease-associated TF genes: OTX2 and TBX5. My analysis expanded on existing knowledge of human TF binding diversity and pointed to the importance of understanding TF isoforms. 
 
 **RNA-seq Analysis of Sex Differences in the Striatum Cocaine Response of NOD Mice**
 _Laboratory of Dr. Elissa Chesler_
