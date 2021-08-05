@@ -22,7 +22,7 @@ I utilized R to perform protein-binding microarray data analysis on the DNA bind
 **RNA-seq Analysis of Sex Differences in the Striatum Cocaine Response of NOD Mice**
 _Laboratory of Dr. Elissa Chesler_
 
-I explored how sex differences play a significant role in cocaine dependence. I performed RNA-seq analysis and found that female NOD mice showed significant differences in cocaine-induced striatum gene expression, while the male NOD mice showed no significant differences. Using AMIGO for Gene Ontology (GO) enrichment, I identified Pprcl and Nr4a1 as candidate genes that could play a more significant role in sex differences in cocaine response. 
+I conducted RNA-seq analysis and found that female NOD mice showed significant differences in cocaine-induced striatum gene expression, while the male NOD mice showed no significant differences. Using AMIGO for Gene Ontology (GO) enrichment, I identified Pprcl and Nr4a1 as candidate genes that could play a more significant role in sex differences in cocaine response. 
 
 **The effects of enriched environment on learning and memory in Long Evans rats**
 _Laboratory of Dr. Christina McKittrick_
