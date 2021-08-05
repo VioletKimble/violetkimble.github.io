@@ -4,7 +4,7 @@ title: Research
 ---
 I have been fortunate to work in many labs.
 
-**Investigate the role of gut microbiome disruptions in a rodent model of opioid use disorder**
+**The role of gut microbiome disruptions in a rodent model of opioid use disorder**
 _Laboratory of Dr. Drew Kiraly_
 
 I worked to establish a mechanistic link between the adolescent gut microbiome, the production of short-chain fatty acids (SCFAs), and opioid self-administration. The current project will build upon our preliminary results to investigate the role of the adolescent gut microbiome on fentanyl self-administration and seek a mechanistic understanding of its influence by examining the contribution of the gut microbiome-derived metabolites in opioid reward behavior and chromatin modification in mPFC. My portion of the project was to test the hypothesis that adolescence is a sensitive period for microbiome-driven effects on opioid self-administration and opioid-induced histone modification. 
@@ -22,9 +22,9 @@ I utilized R to perform protein-binding microarray data analysis on the DNA bind
 **RNA-seq Analysis of Sex Differences in the Striatum Cocaine Response of NOD Mice**
 _Laboratory of Dr. Elissa Chesler_
 
-I investigated how sex differences play a significant role in cocaine dependence. I performed RNA-seq analysis and found that female NOD mice showed significant differences in cocaine-induced striatum gene expression, while the male NOD mice showed no significant differences. Using AMIGO for Gene Ontology (GO) enrichment, I identified Pprcl and Nr4a1 as candidate genes that could play a more significant role in sex differences in cocaine response. 
+I explored how sex differences play a significant role in cocaine dependence. I performed RNA-seq analysis and found that female NOD mice showed significant differences in cocaine-induced striatum gene expression, while the male NOD mice showed no significant differences. Using AMIGO for Gene Ontology (GO) enrichment, I identified Pprcl and Nr4a1 as candidate genes that could play a more significant role in sex differences in cocaine response. 
 
-**Investigated the effects of enriched environment on learning and memory in Long Evans rats**
+**The effects of enriched environment on learning and memory in Long Evans rats**
 _Laboratory of Dr. Christina McKittrick_
 
 I performed behavioral tests, such as the forced swim test, the elevated zero maze, and the Morris water maze to see if maternal separation had lasting effects on various behaviors. I was responsible for scheduling and running various behavior assays as well as statistical and graphical analysis of the behavioral data. 
