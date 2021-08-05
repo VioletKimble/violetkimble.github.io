@@ -32,7 +32,7 @@ after-content: contact
 # --- Colours / background image --- #
 
 navbar-col: "#252525"
-navbar-text-col: "#0085A1"
+navbar-text-col: "#00229A"
 navbar-border-col: "#666666"
 # page-col: "#FFFFFF"
 # text-col: "#404040"
@@ -43,7 +43,7 @@ footer-col: "#252525"
 # footer-text-col: "#777777"
 # footer-link-col: "#404040"
 # navbar-img: "/img/clanky_banner.gif"
-# mobile-theme-col: "#0085A1"
+# mobile-theme-col: "#00229A"
 
 
 defaults:
