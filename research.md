@@ -3,7 +3,9 @@ layout: page
 title: Research
 ---
 **Investigate the role of gut microbiome disruptions in a rodent model of opioid use disorder**
+
 _Laboratory of Dr. Drew Kiraly_
+
 Icahn School of Medicine at Mount Sinai, The Department of Translational Psychiatry 
 
 blurb
