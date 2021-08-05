@@ -2,12 +2,14 @@
 layout: page
 title: Research
 ---
+I have been fortunate to work in many labs as my interests are mainly focused on drug addiction and mental health using animal models and bioinformatic tools.
+
 **Investigate the role of gut microbiome disruptions in a rodent model of opioid use disorder**
     _Laboratory of Dr. Drew Kiraly_
 
 Icahn School of Medicine at Mount Sinai, The Department of Translational Psychiatry 
 
-blurb
+I worked on a project to establish a mechanistic link between the adolescent gut microbiome, the production of short-chain fatty acids (SCFAs), and opioid self-administration. 
 
 **Investigated the effects of enriched environment on learning and memory in Long Evans rats**
 _Laboratory of Dr. Christina McKittrick_
