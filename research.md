@@ -2,7 +2,6 @@
 layout: page
 title: Research
 ---
-I have been fortunate to work in many labs.
 
 **The role of gut microbiome disruptions in a rodent model of opioid use disorder**
 _Laboratory of Dr. Drew Kiraly_
