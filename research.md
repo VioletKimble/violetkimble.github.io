@@ -4,7 +4,7 @@ title: Research
 subtitle: My research focuses on applying bioinformatics tools to understand complex brain disorders and diseases.
 ---
 
-**The role of gut microbiome disruptions in a rodent model of opioid use disorder**
+#**The role of gut microbiome disruptions in a rodent model of opioid use disorder**
 >
 _Laboratory of Dr. Drew Kiraly_
 
