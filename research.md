@@ -5,14 +5,13 @@ subtitle: My research focuses on applying bioinformatics tools to understand com
 ---
 
 **The role of gut microbiome disruptions in a rodent model of opioid use disorder**
-
+>
 _Laboratory of Dr. Drew Kiraly_
 
 I worked to establish a mechanistic link between the adolescent gut microbiome, the production of short-chain fatty acids (SCFAs), and opioid self-administration. My portion of the project was to test the hypothesis that adolescence is a sensitive period for microbiome-driven effects on opioid self-administration and opioid-induced histone modification. 
 
 
-**Housing environment affects anxiety-like behaviors but not cocaine-induced sensitization in female and male mice**
-
+**Housing environment affects anxiety-like behaviors but not cocaine-induced sensitization in female and male mice**<br>
 _Laboratory of Dr. Christina McKittrick_
 
 I investigated the effect of housing conditions on behavioral responsiveness to cocaine and on anxiety-like behavior in both female and male mice. We observed that the housing environment affected anxiety-related behaviors but not the sensitization response suggests that these behavioral processes involve distinct neural pathways. In addition, the robust behavioral sensitization to cocaine exhibited by both female and male mice supports the routine inclusion of females in studies of substance use disorders.   
