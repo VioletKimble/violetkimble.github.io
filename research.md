@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Undergraduate Research
 subtitle: My research focuses on applying bioinformatics tools to understand complex brain disorders and diseases.
 ---
 
