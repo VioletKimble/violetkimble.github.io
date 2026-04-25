@@ -1,6 +1,6 @@
 remote_theme: daattali/beautiful-jekyll
-title: Violet Kimble 
-author: Violet Kimble
+title: Violet M. Kimble, PhD
+author: Violet M. Kimble, PhD
 description: All things academia.
 
 # --- List of links in the navigation bar --- #
@@ -24,9 +24,7 @@ cover-img: "/img/brain_banner.gif"
 social-network-links:
   email: "violet.kimble@yale.edu"
   github: VioletKimble
-  twitter: violet_kimble
-  linkedin: violet-k
-  
+  linkedin: violet-kimble
   
 after-content: contact
   
