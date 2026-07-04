@@ -61,4 +61,4 @@ I earned my Ph.D. in the [Interdepartmental Neuroscience Program](https://medici
 
 My research is moving toward a program centered on biological state and recovery in substance use disorders. I am especially interested in how ovarian hormones, menopause, metabolism, resilience, and clinical context interact to shape risk and recovery. Across projects, I return to one question: **How do internal biological states shape behavior, vulnerability, and recovery?**
 
-For a full list of publications, manuscripts, and presentations, please visit my [publications page](/publications/) or view my [ORCID profile](https://orcid.org/0000-0002-5075-9643).
+For a full list of publications, manuscripts, and presentations, please visit the publications, ORCID, or CV tab.
