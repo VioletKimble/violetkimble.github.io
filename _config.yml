@@ -1,54 +1,49 @@
-remote_theme: daattali/beautiful-jekyll
-title: Violet M. Kimble, PhD
-author: Violet M. Kimble, PhD
-description: All things academia.
+remote_theme: daattali/beautiful-jekyll@6.0.1
 
-# --- List of links in the navigation bar --- #
+title: "Violet M. Kimble, PhD"
+author: "Violet M. Kimble, PhD"
 
 navbar-links:
   Research: "research"
-  CV: /img/CV.pdf
-  Publications: "https://scholar.google.com/citations?user=bbcI0CIAAAAJ&hl=en"
-  ORCiD: "https://orcid.org/0000-0002-5075-9643"
-
-# --- Logo --- #
+  Publications: "publications"
+  CV: "/img/CV.pdf"
 
 avatar: "/img/Violet.jpg"
-
-# --- Cover image --- #
-
-cover-img: "/img/brain_banner.gif"
-
-# --- Footer options --- #
+round-avatar: true
 
 social-network-links:
-  email: "violet.kimble@yale.edu"
+  email: "violet.kimble@utah.edu"
   github: VioletKimble
   linkedin: violet-kimble
-  
-after-content: contact
-  
-# --- Colours / background image --- #
+  ORCID: "0000-0002-5075-9643"
+  google-scholar: "bbcI0CIAAAAJ"
+
+url-pretty: "violetkimble.github.io"
+title-on-all-pages: true
 
 navbar-col: "#252525"
 navbar-text-col: "#FFFFFF"
 navbar-border-col: "#666666"
-# page-col: "#FFFFFF"
-# text-col: "#404040"
-# link-col: "#00229A"
-hover-col: "#00BFF7"
-# hover-col: "#404040"
 footer-col: "#252525"
-# footer-text-col: "#777777"
-# footer-link-col: "#404040"
-# navbar-img: "/img/clanky_banner.gif"
-# mobile-theme-col: "#00229A"
+hover-col: "#006D77"
 
+site-css:
+  - "/assets/css/custom-styles.css"
+
+timezone: "America/Denver"
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
 
 defaults:
   -
     scope:
-      path: "" # all files
+      path: ""
     values:
       layout: "page"
       show-avatar: true
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
